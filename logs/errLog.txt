@@ -1,0 +1,40 @@
+20220718	10:45:27	a8f387ab-4365-4c2b-9e38-a42ebb0b4558	Error my msg: Not allowed by CORS
+20220718	10:59:42	7a46e9b0-b9cd-4f4f-b65b-c2de73566fba	TypeError req.accepted is not a function
+20220718	11:00:37	cef4e8a9-cca1-4a37-bf60-fe21eb1992dd	TypeError req.type is not a function
+20220718	11:00:48	2d1551da-e25f-43a9-b170-0a6187cd6e21	TypeError req.type is not a function
+20220718	11:00:59	b566ddf8-8c68-4816-82f6-b769ff202f26	TypeError req.type is not a function
+20220718	11:01:06	cbdbfb34-e5d7-4a25-b1cc-4671224dc85e	TypeError req.type is not a function
+20220718	12:19:10	e9f8a8d1-194a-4214-9f9b-5f1dbe92be04	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	12:19:26	22a90645-fd8b-401b-982c-5db65831e8cf	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	12:19:29	80c9c3ba-5087-45c5-8112-95caa569ad73	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	12:21:04	22f9055e-c1ef-4c51-a592-a39b6f8d80f1	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	12:22:29	bc476082-6aaa-4969-abb7-8dacb8f7d081	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\subdie\index.html'
+20220718	13:25:54	7949a202-657a-4b2c-b8a0-a0a1b4961074	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:26:00	ebc03965-5f4f-4f61-815f-a7b6a06f6c97	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:26:26	e7fa7a3c-a9ea-44e8-83f4-896877fa7c15	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:26:43	628eff68-cdc8-4f06-99fd-6f091dd360ec	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:31:32	aebce985-276b-4c10-abc9-ab0e42534735	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:31:36	df9e0902-0b3c-4f99-b0dc-5d775a7ddc05	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:32:03	2abbd3e4-2117-4253-989f-2852f721c055	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:32:12	1a76614e-39b9-41e7-90a7-636c9d5ae664	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:32:16	62af5f85-c4a7-44e0-a200-0092ab1d344e	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:35:47	e69e58bc-5556-47a8-b479-fb4bb84602d5	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:36:24	e4ca0332-0ebd-44c2-a4e7-a0eff241154a	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:37:17	ea1b490e-cf08-4ba3-a15f-44bbea580eab	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:37:19	9481798d-84c4-4756-bcdf-59a35d2a2ec0	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:37:38	cc5e0701-3227-4cde-9e1a-dd90d7fd1807	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:40:38	f87de44c-0f71-4261-b048-324c6be8f89b	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:40:41	76577ac9-7d8c-49c6-831b-0fa24bc1d39d	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\index.html'
+20220718	13:44:48	6f272526-f515-4376-bf43-5b5e49234f51	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\subdir\test.html'
+20220718	14:15:37	f37ef01c-1fbe-4627-a671-4e50bec35769	TypeError req.json is not a function
+20220718	14:16:52	0df659bf-96af-4a23-9aca-49dc96c8fbca	TypeError req.json is not a function
+20220718	14:21:19	91a7c27e-77ac-4f76-b8e4-e981942409ec	SyntaxError Unexpected string in JSON at position 17
+20220718	14:21:51	dfe22f1f-7ad3-4e84-b31f-4a9c4212c7da	TypeError Cannot read properties of undefined (reading 'id')
+20220718	14:22:03	291b3421-60e2-4ed0-86ac-e53c4c39670f	TypeError Cannot read properties of undefined (reading 'id')
+20220718	14:22:06	5b4d663c-d29e-465f-97d2-ed64f17983a5	TypeError Cannot read properties of undefined (reading 'id')
+20220718	14:24:37	12197bbf-36ef-4abd-bd9d-8b867f10e96f	TypeError Cannot read properties of undefined (reading 'id')
+20220718	14:24:43	83daa319-3e91-40e5-84ed-29c8afb1f63a	TypeError Cannot read properties of undefined (reading 'id')
+20220718	14:24:47	7e0c6e4b-74e7-4ab8-a3ab-325af4c0c838	TypeError Cannot read properties of undefined (reading 'id')
+20220718	14:24:50	39e24927-7534-4516-9403-037c2a3995ee	TypeError Cannot read properties of undefined (reading 'id')
+20220718	17:51:49	56d77598-f003-42e7-aa25-342ebe29a97f	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\subdir\index.html'
+20220718	17:51:55	89f5b2b0-a28f-41a5-8089-2a9fcea25f20	Error ENOENT: no such file or directory, stat 'c:\Users\97250\Desktop\הנדסת תוכנה\Full stack\project_fullStack\project_MangeWorkers\server_mangeWorkers\views\subdir\index.html'

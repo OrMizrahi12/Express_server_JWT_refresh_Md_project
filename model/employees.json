@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "firstname": "or",
+        "lastname": "mizrahi"
+    },
+    {
+        "id": 2,
+        "firstname": "noa",
+        "lastname": "lev ari"
+    },
+    {
+        "id": 3,
+        "firstname": "adir",
+        "lastname": "gil"
+    },
+    {
+        "id": 4,
+        "firstname": "adir",
+        "lastname": "gil"
+    },
+    {
+        "id": 5,
+        "firstname": "adir",
+        "lastname": "gil"
+    }
+]

@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 36px;
+    min-height: 100vh;
+    color: rgb(195, 195, 195);
+    background-color: rgb(137, 29, 29);
+    display: grid;
+    place-content: center;
+}
+h1 {
+    background-color:blue
+}
