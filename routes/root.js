@@ -1,5 +1,4 @@
 
-// its just the file of index...
 
 const express = require('express');
 const router = express.Router();
